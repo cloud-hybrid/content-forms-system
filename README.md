@@ -1,17 +1,11 @@
-# [UI-Template] #
-
-The Cloud Dashboard & User Interface for *Cloud-Technology LLC.*
-
-[[_TOC_]]
+# CMS for Client Form Requests #
 
 ## Overview ##
 
-Cloud-Technology's Dashboard is a set of user-friendly utilities that interface RESTful HTTP endpoints & related
-database CRUD actions. The User-Interface is consistent in visibility, styling, but above all else,
-***functionality***.
+The following code base is used for connecting a back-end API & external database to a user-friendly forms page.
 
-As a *Single-Page-Application* (*SPA*), the client-sided front-end can remain functional so long as the API & dependent
-endpoints remain online -- largely a benefit from micro-serviced architecture(s).
+Additionally, operations and developers can sign into the Administrators login to further configure, analyze, and monitor
+the connected systems or to create new forms.
 
 ## Usage ##
 
